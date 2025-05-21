@@ -17,6 +17,7 @@
 -   [SWIG Rust-based CLI](https://github.com/anagrambuild/swig-wallet/tree/main/cli): SWIG-maintained Rust-based CLI.
 -   [Typescript Examples](https://github.com/anagrambuild/swig-ts/tree/main/examples/transfer): Various typescript examples.
 -   [Wallet Standard dApp](https://github.com/anagrambuild/swig-sdk-dapp-examples/tree/main/apps/wallet-standard-dapp): Example of using SWIG with a dApp utilizing the Wallet Standard connector.
+-   [SwigFlix dApp](https://github.com/anagrambuild/swig-rs-sdk-example): Example for subscription using Swig Rust SDK
 
 ## Contribute
 
